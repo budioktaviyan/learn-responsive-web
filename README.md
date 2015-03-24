@@ -1,2 +1,1 @@
-# learn-responsive-web
-Learning Responsive Web
+# Learning Responsive Web
