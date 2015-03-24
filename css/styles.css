@@ -1,0 +1,24 @@
+/* Import Google Fonts */
+@import url(http://fonts.googleapis.com/css?family=Orbitron:500);
+
+body {
+	line-height: 1px;
+	color: #A8A8A8;
+	background: #F5F5F5;
+	font-family: Orbitron;
+	font-size: 100%;
+}
+
+.wrapper {
+	width: 1024px;
+	margin: 250px auto;
+	position: relative;
+	display:block;
+	text-align:center;
+}
+
+#label {
+	margin: 30px auto;
+	display: inline-block;
+	width: 160px;
+}

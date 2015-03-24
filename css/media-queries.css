@@ -1,0 +1,28 @@
+/* Size 980px */
+@media screen and (max-width: 980px) {
+	.wrapper {
+		width: 95%;
+		height: 95%;
+	}
+}
+
+/* Size 650px */
+@media screen and (max-width: 650px) {
+	.wrapper {
+		width: auto;
+		height: auto;
+	}
+}
+
+/* Size 560px */
+@media screen and (max-width: 480px) {
+	/* disable webkit text size adjust (for iPhone) */
+	html {
+		-webkit-text-size-adjust: none;
+	}
+
+	.wrapper {
+		font-size: 90%;
+		padding: 10px 8px;
+	}
+}
